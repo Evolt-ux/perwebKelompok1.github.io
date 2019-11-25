@@ -202,12 +202,14 @@ body{
     overflow: auto;
 }
 .materi1 .boxmateri{
-    text-align: center;
-    color: blue;
     display: inline-block;
-    width: 200px;
-    height: 280px;
-    overflow: auto;
+    width: 100px;
+    color:white;
+    background-color: blue;
+    border-radius: 10px;
+	font-family:Lohit Telugu;
+	text-align: center;
+	text-decoration: none;
 
 }
 .materi1 .boxmateri a{
